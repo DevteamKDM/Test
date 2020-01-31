@@ -586,3 +586,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.31-14.22.55:428][278]SourceControl: [master f12741e] added cones
 [2020.01.31-14.22.55:428][278]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2020.01.31-14.22.55:438][278]SourceControl: Commited [master f12741e] added cones.
+[2020.01.31-14.28.12:174][324]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A18892C4-4795-82D2-1665-F8AB338AE64F}
+[2020.01.31-14.28.12:174][324]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={FCEC57EF-4A7F-D253-C6E2-899BEA271A66}
+[2020.01.31-14.37.06:032][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-14.37.06:141][ 66]LogActorFactory: Actor Factory created Sphere
+[2020.01.31-14.37.06:610][ 94]LogActorFactory: Actor Factory created Sphere
+[2020.01.31-14.37.08:883][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-14.37.09:041][237]LogActorFactory: Actor Factory created Sphere
+[2020.01.31-14.37.09:680][275]LogActorFactory: Actor Factory created Sphere
+[2020.01.31-14.37.12:093][417]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.31-14.37.12:817][460]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-14.37.12:929][460]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-14.37.12:937][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestGithub" FILE="../../../../../Git/test/Content/TestGithub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.31-14.37.12:966][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.01.31-14.37.13:142][460]LogSavePackage: Moving '../../../../../Git/test/Saved/TestGithub0206A26C442F368779021BAF1DAA27C5.tmp' to '../../../../../Git/test/Content/TestGithub.umap'
+[2020.01.31-14.37.13:149][460]LogFileHelpers: Saving map 'TestGithub' took 0.214
+[2020.01.31-14.37.15:125][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-14.37.23:925][767]LogSlate: Window 'Submit Files' being destroyed
+[2020.01.31-14.37.24:464][767]LogSourceControl: commit successful: [master 9184943] yett
+[2020.01.31-14.37.24:560][767]SourceControl: [master 9184943] yett
+[2020.01.31-14.37.24:560][767]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.01.31-14.37.24:573][767]SourceControl: Commited [master 9184943] yett.
