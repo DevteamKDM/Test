@@ -586,3 +586,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.31-14.22.55:428][278]SourceControl: [master f12741e] added cones
 [2020.01.31-14.22.55:428][278]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2020.01.31-14.22.55:438][278]SourceControl: Commited [master f12741e] added cones.
+[2020.01.31-14.28.12:174][324]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A18892C4-4795-82D2-1665-F8AB338AE64F}
+[2020.01.31-14.28.12:174][324]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={FCEC57EF-4A7F-D253-C6E2-899BEA271A66}
